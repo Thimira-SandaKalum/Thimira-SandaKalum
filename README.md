@@ -1,9 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
-👋 Hi, I’m <b>Thimira Sandakalum!<br>
+👋 Hi, I’m <b>Thimira Sandakalum !<br>
 I’m a passionate developer who loves building clean, efficient, and scalable software.<br>
-💡 Currently learning: <b>NEXT.js</b><br>
+💡 Currently learning: <b>NEXT.js and Spring Boot</b><br>
 🚀 Always exploring new technologies and open-source projects.
 
 ---
