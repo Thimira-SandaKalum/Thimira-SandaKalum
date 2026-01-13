@@ -46,9 +46,9 @@ I’m a passionate developer who loves building clean, efficient, and scalable s
 ---
 
 ## 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=Thimira-SandaKalum&theme=radical&no-bg=true" />
-
-<img src="https://visitcount.itsvg.in/api?id=Thimira-SandaKalum&icon=0&color=0" />
+| ![](https://github-profile-trophy.vercel.app/?username=Thimira-SandaKalum&theme=radical&no-bg=true) |
+|:--------------------------------------------------------------------------------------------------:|
+| ![](https://visitcount.itsvg.in/api?id=Thimira-SandaKalum&icon=0&color=0) |
 
 
 </div>
